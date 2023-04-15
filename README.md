@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/eliass.go/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassgo&hide_progress=true)](https://github.com/eliassgo/github-readme-stats)
-
 
 ## Tecnologias que fazem parte dos meus projetos no dia a dia 
 
