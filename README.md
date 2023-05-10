@@ -17,6 +17,8 @@
 </div>
 <br/>
 
+
+
 Sou estudante de Engenharia de Software na faculdade <a href="https://www.fiap.com.br/"> FIAP </a> e estou me especializando em desenvolvimento full stack Java na instituição <a href="https://ebaconline.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=course_0_all_google_search_all_brand_general&utm_content=c_11725014130%7Cadg_113925699796%7Cad_482740889182%7Cph_kwd-1533695341%7Ckey_ebac%20online%7Cdev_c%7Cpst_%7Crgnid_1001560%7Cplacement_&gclid=Cj0KCQjwlumhBhClARIsABO6p-y45bnq_KVfhgEGA6JH1iv8U9rZGIr0S_WfkwJaB-4fKw2ffhoUqWMaAgD2EALw_wcB" targer="blank">EBAC</a>. Com conhecimento em tecnologias e habilidades em desenvolvimento de aplicações, estou pronto para contribuir com projetos desafiadores. Busco expandir meus horizontes e aprimorar minhas habilidades em programação e tecnologia.
 
 ***
