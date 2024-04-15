@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A passionate frontend developer and Software Student from Brazil</h3>
 
-- 🌱 I’m currently learning **ReactJs and Python**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **eliasgo221@gmail.com**
 
